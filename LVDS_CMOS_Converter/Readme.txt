@@ -1,0 +1,1 @@
+Uses SN65LVDT41QPWREP to converts CMOS to LVDS to interface w/ Intan Evel board. Was originally built to interface w/ Dragonfly commutators (DB9 or DB15 version). 
